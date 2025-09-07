@@ -14,13 +14,6 @@
 - Estrutura de dados e algoritmos  
 - SQL e banco de dados relacionais  
 
-🚀 **Projetos em andamento:**  
-- Repositório de exercícios do curso "Java COMPLETO 2023"  
-- Gerador de senhas em Java  
-- Mini API REST com Spring Boot (em construção)
-
-📘 **Cursos em andamento:**  
-- [Java COMPLETO 2023 - Udemy](https://www.udemy.com/course/java-curso-completo/)  
 
 
 🔗 **Conecte-se comigo:**  
