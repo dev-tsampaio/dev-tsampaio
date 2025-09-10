@@ -6,13 +6,21 @@
 
 ---
 
-🎯 **Objetivo atual:** Conquistar uma vaga de estágio/JR como desenvolvedor Java Back-end.
+ Faça uma breve apresentação sua com o seu nome e não esqueça a sua stack.
+Diga o que você está fazendo no momento, se trabalha ou estuda.
 
-💻 **Estudando atualmente:**  
-- Java (com foco em orientação a objetos e projetos práticos)  
-- Git e GitHub para controle de versões  
-- Estrutura de dados e algoritmos  
-- SQL e banco de dados relacionais
+🦄 Linguagens: [image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+
+💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+
+Gmail LinkedIn WhatsApp Facebook Instagram 
+
+
+
+
+
 
 - [![card](https://github-readme-stats.vercel.app/api?username=dev-tsampaio&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![dev-tsampaio](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tsampaio&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
