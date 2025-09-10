@@ -12,7 +12,9 @@
 - Java (com foco em orientação a objetos e projetos práticos)  
 - Git e GitHub para controle de versões  
 - Estrutura de dados e algoritmos  
-- SQL e banco de dados relacionais  
+- SQL e banco de dados relacionais
+
+- [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
