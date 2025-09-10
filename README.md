@@ -14,7 +14,7 @@
 - Estrutura de dados e algoritmos  
 - SQL e banco de dados relacionais
 
-- [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- [![card](https://github-readme-stats.vercel.app/api?username=dev-tsampaio&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![dev-tsampaio](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tsampaio&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
