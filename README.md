@@ -9,7 +9,7 @@
  Faça uma breve apresentação sua com o seu nome e não esqueça a sua stack.
 Diga o que você está fazendo no momento, se trabalha ou estuda.
 
-🦄 Linguagens: [image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+🦄 Linguagens: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
 
