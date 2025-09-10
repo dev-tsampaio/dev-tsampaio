@@ -7,9 +7,8 @@
 ---
 
 
-![Note](https://img.freepik.com/premium-vector/programming-language-program-code-screen-laptop-programming-coding-php-html_435184-705.jpg)
-
 Olá! Meu nome é Thales Sampaio e sou um desenvolvedor back-end com foco em Java. Minha stack principal inclui Java, Spring Boot, JPA/Hibernate, SQL (PostgreSQL/MySQL) e Git. Atualmente, estou concluindo meus estudos em Ciência da Computação e desenvolvendo projetos  práticos em Java para aprimorar minhas habilidades e construir meu portfólio. Também estou em busca da minha primeira oportunidade de estágio na área de desenvolvimento back-end para aplicar meus conhecimentos em projetos reais.
+
 
   Linguagens:  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
